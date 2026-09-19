@@ -1,0 +1,15 @@
+# This file is used to override language statistics
+# See https://github.com/github/linguist
+*.svg text
+
+public/**/*.html linguist-vendored
+src/*.astro linguist-detectable
+
+*.sh text eol=lf
+
+*.astro linguist-detectable
+public/index.html linguist-vendored 
+*.woff binary
+
+*.min.css linguist-generated
+# eof a3e528e2
