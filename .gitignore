@@ -1,0 +1,4 @@
+dist/
+.env
+.pnpm-store/
+npm-debug.log*
